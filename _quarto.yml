@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Konstantin Holl"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/your-linkedin-profile
+      - icon: github
+        href: https://github.com/konstantinholl
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

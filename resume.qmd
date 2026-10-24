@@ -1,0 +1,35 @@
+---
+title: "Resume"
+---
+
+## Summary
+
+Aspiring data scientist with a foundation in statistics, programming, and data analysis.
+
+## Education
+
+**Your University Name**  
+B.Sc. in *Your Program*  
+Expected graduation: *YYYY*
+
+## Skills
+
+- **Programming:** Python, SQL, R
+- **Data:** Pandas, NumPy, visualization, exploratory analysis
+- **Tools:** Git, Jupyter, Quarto
+
+## Experience
+
+Add internships, student jobs, research work, or relevant volunteer work here.
+
+## Projects
+
+Add 2–4 concise project summaries:
+
+1. Problem statement
+2. Methods/tools used
+3. Outcome/impact
+
+## Certifications & Awards
+
+Add relevant certifications, scholarships, or awards.

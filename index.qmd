@@ -1,0 +1,24 @@
+---
+title: "Hi, I'm Konstantin Holl"
+---
+
+Welcome to my personal website. I am a university student and aspiring data scientist.
+
+## About Me
+
+- 🎓 University student
+- 📊 Interested in data science, machine learning, and analytics
+- 🌱 Currently building practical experience through projects and coursework
+
+## Resume
+
+You can view my resume on the [Resume page](resume.qmd).
+
+## Socials
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://github.com/konstantinholl)
+
+## Contact
+
+If you would like to connect, please reach out via LinkedIn.
