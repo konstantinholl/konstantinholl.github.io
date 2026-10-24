@@ -6,7 +6,7 @@ Welcome to my personal website. I am a university student and aspiring data scie
 
 ## About Me
 
-- 🎓 University student
+- 🎓 Masters student at University of Tübingen
 - 📊 Interested in data science, machine learning, and analytics
 - 🌱 Currently building practical experience through projects and coursework
 
